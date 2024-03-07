@@ -2,7 +2,7 @@
 # Hola, mi nombre es Diego Valenzuela S 👋
 ### QA Engineer
 
-![https://github.com/mouredev](dos.png)
+![https://github.com/diegov1s9](https://github.com/diegov1s9/diegov1s9/blob/main/profile.png)
 
 Soy Ingeniero en Informática especializado en el aseguramiento de la calidad del software. 
 
